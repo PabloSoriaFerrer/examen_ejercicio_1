@@ -1,0 +1,9 @@
+div.cabecera{
+    background-color: darkorange;
+    display: block;
+}
+
+div.lista{
+    background-color: burlywood;
+    display: block;
+}
